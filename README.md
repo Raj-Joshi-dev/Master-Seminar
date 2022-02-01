@@ -4,15 +4,12 @@ Study of Rapid Charging in Mobile devices
 
 ## Description
 
-This thesis is a part towards fulfilment of the study programme M.Sc International Software Systems Science at University of Bamberg under MOBI chair. 
+The technical paper describes various fast charging techniques and emphasisies on detailed analysis generated on battery charging mechanisms present in modern smartphones. This seminar is a part of earning mandatory curriculum credit points in Master course <b>M.Sc International Software Systems Science</b> at University of Bamberg under MOBI chair. 
 
 ## Built with
 
--   [Python](https://www.python.org/)
--   [openCypher](https://opencypher.org/)
--   [Neo4j](https://neo4j.com/)
--   [Memgraph](https://memgraph.com/)
--   [RedisGraph](https://oss.redis.com/redisgraph/)
+-   [Latex](https://www.latex-project.org/)
+-   [Overleaf](https://www.overleaf.com/)
 
 ## Affliation
 
